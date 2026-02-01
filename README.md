@@ -16,8 +16,9 @@ This project is built to understand the fundamentals of CRUD operations and basi
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript  
-*(or React, if applicable — update as needed)*
+- Frontend: HTML, CSS, JavaScript
+- Framework: React   
+
 
 ---
 
